@@ -4,7 +4,9 @@
 		PHP client library for Botway.
 	</p>
 	<br />
-	<p></p>
+	<p>
+        <img alt="Packagist" src="https://img.shields.io/packagist/v/abdfnx/bw-php?logo=php&style=flat-square">
+    </p>
 </div>
 
 ```bash
