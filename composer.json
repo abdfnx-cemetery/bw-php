@@ -18,7 +18,7 @@
   ],
   "require": {
     "php": ">=7.2",
-    "dallgoot/yaml": "dev-master"
+    "dallgoot/yaml": "^0.3.2"
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }

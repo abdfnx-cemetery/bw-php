@@ -4,20 +4,20 @@
     "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
     "This file is @generated automatically"
   ],
-  "content-hash": "f1b6a30ae245526a870098ac688e452e",
+  "content-hash": "5aafa0e4c2ccdcf85eefb58680dfc6a8",
   "packages": [
     {
       "name": "dallgoot/yaml",
-      "version": "dev-master",
+      "version": "v0.3.2",
       "source": {
         "type": "git",
         "url": "https://github.com/dallgoot/yaml.git",
-        "reference": "096826fc13e398fd7f43c47f47b2501e0358c74d"
+        "reference": "505ce0f23b40767d3016ea16e1f101085f3a63c0"
       },
       "dist": {
         "type": "zip",
-        "url": "https://api.github.com/repos/dallgoot/yaml/zipball/096826fc13e398fd7f43c47f47b2501e0358c74d",
-        "reference": "096826fc13e398fd7f43c47f47b2501e0358c74d",
+        "url": "https://api.github.com/repos/dallgoot/yaml/zipball/505ce0f23b40767d3016ea16e1f101085f3a63c0",
+        "reference": "505ce0f23b40767d3016ea16e1f101085f3a63c0",
         "shasum": ""
       },
       "require": {
@@ -37,7 +37,6 @@
         "phpunit/phpunit": "^7",
         "roave/better-reflection": "dev-master#c87d856"
       },
-      "default-branch": true,
       "type": "library",
       "autoload": {
         "classmap": ["sources"]
@@ -55,27 +54,19 @@
       "keywords": ["parser", "yaml"],
       "support": {
         "issues": "https://github.com/dallgoot/yaml/issues",
-        "source": "https://github.com/dallgoot/yaml/tree/master"
+        "source": "https://github.com/dallgoot/yaml/tree/v0.3.2"
       },
-      "funding": [
-        {
-          "url": "https://github.com/dallgoot",
-          "type": "github"
-        }
-      ],
-      "time": "2021-08-09T15:04:03+00:00"
+      "time": "2020-01-08T19:03:03+00:00"
     }
   ],
   "packages-dev": [],
   "aliases": [],
-  "minimum-stability": "dev",
-  "stability-flags": {
-    "dallgoot/yaml": 20
-  },
+  "minimum-stability": "stable",
+  "stability-flags": [],
   "prefer-stable": false,
   "prefer-lowest": false,
   "platform": {
-    "php": ">=5.3.0"
+    "php": ">=7.2"
   },
   "platform-dev": [],
   "plugin-api-version": "2.3.0"
