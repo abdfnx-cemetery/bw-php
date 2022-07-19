@@ -1,7 +1,7 @@
 <?php
 namespace Botway;
 
-require __DIR__."/../vendor/autoload.php";
+require __DIR__."/../../vendor/autoload.php";
 
 use Dallgoot\Yaml;
 
