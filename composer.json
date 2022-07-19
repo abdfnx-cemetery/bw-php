@@ -5,10 +5,10 @@
   "license": "MIT",
   "autoload": {
     "files": [
-      "src/functions.php"
+      "src/Botway/functions.php"
     ],
     "psr-4": {
-      "Botway\\": "src/"
+      "Botway\\": "src/Botway"
     }
   },
   "authors": [
