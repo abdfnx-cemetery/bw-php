@@ -4,9 +4,6 @@
   "type": "library",
   "license": "MIT",
   "autoload": {
-    "files": [
-      "src/Botway/functions.php"
-    ],
     "psr-4": {
       "Botway\\": "src/Botway"
     }
